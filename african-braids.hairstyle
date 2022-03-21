@@ -5,9 +5,9 @@
       "link_redirect": "https://",
       "admob_interid": "ca-app-pub-8103913840328601/4978086245",
       "admob_nativeid": "ca-app-pub-8103913840328601/8797911758",
-      "admob_openid": "ca-app-pub-8103913840328601/4978086245",
-      "admob_rewardid": "ca-app-pub-8103913840328601/4978086245", 
-      "interval": 1,
+      "admob_openid": "",
+      "admob_rewardid": "", 
+      "interval": 2,
       "coin_reward": 0
     }
   ],
